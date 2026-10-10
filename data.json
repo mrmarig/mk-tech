@@ -1,0 +1,259 @@
+{
+  "projects": [
+    {
+      "id": "legal-law-connect",
+      "name": "Legal Law Connect",
+      "tag": "Legal Case Classification & Attorney Recommendation Engine",
+      "cat": "AI & LegalTech",
+      "grp": "AI & Intelligence",
+      "owner": "MK.TECH Studio",
+      "status": "Status to confirm",
+      "tech": [
+        "React",
+        "TypeScript",
+        "Python",
+        "FastAPI",
+        "Vector Search"
+      ],
+      "div": 0,
+      "m": "nodes",
+      "c": "rgba(47,123,255,.45)",
+      "d": "A legal case classification and lawyer recommendation platform.",
+      "hl": [],
+      "arch": "",
+      "demo": "",
+      "repo": ""
+    },
+    {
+      "id": "lead-agent",
+      "name": "AI Lead-to-Appointment Agent",
+      "tag": "Conversational Lead Qualification & Autonomous Scheduling",
+      "cat": "Intelligent Automation",
+      "grp": "Automation & IoT",
+      "owner": "MK.TECH Studio",
+      "status": "Status to confirm",
+      "tech": [
+        "React",
+        "Node.js",
+        "WebSocket",
+        "Calendar APIs",
+        "NLP Engine"
+      ],
+      "div": 0,
+      "m": "wave",
+      "c": "rgba(56,189,248,.4)",
+      "d": "Automated lead qualification and appointment workflows.",
+      "hl": [],
+      "arch": "",
+      "demo": "",
+      "repo": ""
+    },
+    {
+      "id": "tori",
+      "name": "TORI — Operational Risk Intelligence",
+      "tag": "Real-Time Hazard Assessment & Operational Telemetry Concept",
+      "cat": "Risk Intelligence",
+      "grp": "Simulation & Risk",
+      "owner": "MK.TECH Studio",
+      "status": "Concept",
+      "tech": [
+        "TypeScript",
+        "HTML Canvas",
+        "Go",
+        "Kafka Streaming"
+      ],
+      "div": 3,
+      "m": "orbit",
+      "c": "rgba(255,180,84,.35)",
+      "d": "Operational risk intelligence concept.",
+      "hl": [],
+      "arch": "",
+      "demo": "",
+      "repo": ""
+    },
+    {
+      "id": "misinformation",
+      "name": "Misinformation Classification Engine",
+      "aka": "Fake News Detection",
+      "tag": "Neural Network Framework for Information Flow & Veracity Analysis",
+      "cat": "Machine Learning",
+      "grp": "AI & Intelligence",
+      "owner": "MK.TECH Studio",
+      "status": "Status to confirm",
+      "tech": [
+        "PyTorch",
+        "FastAPI",
+        "React",
+        "TypeScript"
+      ],
+      "div": 3,
+      "m": "grid",
+      "c": "rgba(120,90,255,.4)",
+      "d": "Misinformation classification project.",
+      "hl": [],
+      "arch": "",
+      "demo": "",
+      "repo": ""
+    },
+    {
+      "id": "acadai",
+      "name": "ACADAI",
+      "tag": "Intelligent Academic Learning & Cognitive Platform",
+      "cat": "AI & Education",
+      "grp": "AI & Intelligence",
+      "owner": "Khubaib Shah",
+      "status": "In Development",
+      "tech": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "AI Models"
+      ],
+      "div": 0,
+      "m": "nodes",
+      "c": "rgba(47,123,255,.45)",
+      "d": "",
+      "hl": [],
+      "arch": "",
+      "demo": "",
+      "repo": ""
+    },
+    {
+      "id": "savoryish",
+      "name": "savoryish",
+      "tag": "Modern Culinary Discovery & Digital Experience Platform",
+      "cat": "Web Experience",
+      "grp": "Web & Systems",
+      "owner": "Khubaib Shah",
+      "status": "In Development",
+      "tech": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Web APIs"
+      ],
+      "div": 2,
+      "m": "wave",
+      "c": "rgba(255,180,84,.35)",
+      "d": "",
+      "hl": [],
+      "arch": "",
+      "demo": "",
+      "repo": ""
+    },
+    {
+      "id": "shah-health-care",
+      "name": "Shah Health Care",
+      "tag": "Healthcare Management & Patient Consultation Portal",
+      "cat": "HealthTech Platform",
+      "grp": "Web & Systems",
+      "owner": "Khubaib Shah",
+      "status": "In Development",
+      "tech": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Secure APIs"
+      ],
+      "div": 1,
+      "m": "grid",
+      "c": "rgba(56,189,248,.4)",
+      "d": "",
+      "hl": [],
+      "arch": "",
+      "demo": "",
+      "repo": ""
+    },
+    {
+      "id": "smart-kitchen",
+      "name": "Smart Kitchen — IoT-based project",
+      "tag": "Connected Sensor Telemetry & Automated Appliance Intelligence",
+      "cat": "IoT & Automation",
+      "grp": "Automation & IoT",
+      "owner": "Khubaib Shah",
+      "status": "In Development",
+      "tech": [
+        "IoT Protocols",
+        "MQTT",
+        "TypeScript",
+        "Embedded Automation"
+      ],
+      "div": 0,
+      "m": "orbit",
+      "c": "rgba(60,200,160,.38)",
+      "d": "",
+      "hl": [],
+      "arch": "",
+      "demo": "",
+      "repo": ""
+    },
+    {
+      "id": "trading-simulator",
+      "name": "Trading Simulator",
+      "tag": "Real-Time Financial Market Modeling & Execution Simulation",
+      "cat": "Financial Simulation",
+      "grp": "Simulation & Risk",
+      "owner": "Khubaib Shah",
+      "status": "In Development",
+      "tech": [
+        "TypeScript",
+        "HTML Canvas",
+        "WebSocket",
+        "Quantitative Models"
+      ],
+      "div": 1,
+      "m": "chart",
+      "c": "rgba(120,90,255,.4)",
+      "d": "",
+      "hl": [],
+      "arch": "",
+      "demo": "",
+      "repo": ""
+    },
+    {
+      "id": "adoco",
+      "name": "ADOCO — E-commerce website",
+      "tag": "Modern Digital Commerce Architecture & Storefront Engine",
+      "cat": "E-Commerce Platform",
+      "grp": "Web & Systems",
+      "owner": "Khubaib Shah",
+      "status": "In Development",
+      "tech": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Payment Gateways"
+      ],
+      "div": 1,
+      "m": "chart",
+      "c": "rgba(47,123,255,.45)",
+      "d": "",
+      "hl": [],
+      "arch": "",
+      "demo": "",
+      "repo": ""
+    }
+  ],
+  "founders": [
+    {
+      "name": "Mr MariG",
+      "role": "Co-Founder & Technology Director",
+      "bio": "Biography to be supplied.",
+      "skills": [],
+      "resp": [],
+      "email": "",
+      "photo": "",
+      "links": []
+    },
+    {
+      "name": "Khubaib Shah",
+      "role": "Co-Founder & Product Architect",
+      "bio": "Biography to be supplied.",
+      "skills": [],
+      "resp": [],
+      "email": "",
+      "photo": "",
+      "links": []
+    }
+  ]
+}
