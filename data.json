@@ -6,7 +6,7 @@
       "tag": "Legal Case Classification & Attorney Recommendation Engine",
       "cat": "AI & LegalTech",
       "grp": "AI & Intelligence",
-      "owner": "MK.TECH Studio",
+      "owner": "Mr MariG",
       "status": "Status to confirm",
       "tech": [
         "React",
@@ -22,7 +22,9 @@
       "hl": [],
       "arch": "",
       "demo": "",
-      "repo": ""
+      "repo": "",
+      "video": "",
+      "img": ""
     },
     {
       "id": "lead-agent",
@@ -30,7 +32,7 @@
       "tag": "Conversational Lead Qualification & Autonomous Scheduling",
       "cat": "Intelligent Automation",
       "grp": "Automation & IoT",
-      "owner": "MK.TECH Studio",
+      "owner": "Mr MariG",
       "status": "Status to confirm",
       "tech": [
         "React",
@@ -46,7 +48,9 @@
       "hl": [],
       "arch": "",
       "demo": "",
-      "repo": ""
+      "repo": "",
+      "video": "",
+      "img": ""
     },
     {
       "id": "tori",
@@ -54,7 +58,7 @@
       "tag": "Real-Time Hazard Assessment & Operational Telemetry Concept",
       "cat": "Risk Intelligence",
       "grp": "Simulation & Risk",
-      "owner": "MK.TECH Studio",
+      "owner": "Mr MariG",
       "status": "Concept",
       "tech": [
         "TypeScript",
@@ -69,7 +73,9 @@
       "hl": [],
       "arch": "",
       "demo": "",
-      "repo": ""
+      "repo": "",
+      "video": "",
+      "img": ""
     },
     {
       "id": "misinformation",
@@ -78,7 +84,7 @@
       "tag": "Neural Network Framework for Information Flow & Veracity Analysis",
       "cat": "Machine Learning",
       "grp": "AI & Intelligence",
-      "owner": "MK.TECH Studio",
+      "owner": "Mr MariG",
       "status": "Status to confirm",
       "tech": [
         "PyTorch",
@@ -93,7 +99,9 @@
       "hl": [],
       "arch": "",
       "demo": "",
-      "repo": ""
+      "repo": "",
+      "video": "",
+      "img": ""
     },
     {
       "id": "acadai",
